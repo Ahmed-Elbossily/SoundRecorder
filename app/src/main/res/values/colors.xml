@@ -10,4 +10,7 @@
     <color name="icons">#FFFFFF</color>
     <color name="divider">#BDBDBD</color>
 
+    <color name="white">#FFFFFF</color>
+    <color name="tab_strip">#00796B</color>
+
 </resources>
