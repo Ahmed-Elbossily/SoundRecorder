@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="license_title">Sound Recorder</string>
+    <string name="license_author">Ahmed Elbossily</string>
+    <string name="license_content">Copyright 2018 Ahmed Elbossily</string>
+
+</resources>
